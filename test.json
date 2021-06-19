@@ -1,1557 +1,1557 @@
 
 [{
           
-            "Country_Region": "Afghanistan",
-            "Long_": 67.709953,
+            "Country": "Afghanistan",
+            "long": 67.709953,
             "Confirmed": 98734,
-            "Lat": 33.93911
+            "lat": 33.93911
          },
          
      
       {
           
-            "Country_Region": "Albania",
-            "Long_": 20.1683,
+            "Country": "Albania",
+            "long": 20.1683,
             "Confirmed": 132484,
-            "Lat": 41.1533
+            "lat": 41.1533
          },
          
       
       {
           
-            "Country_Region": "Algeria",
-            "Long_": 1.6596,
+            "Country": "Algeria",
+            "long": 1.6596,
             "Confirmed": 135219,
-            "Lat": 28.0339
+            "lat": 28.0339
          },
         
       {
           
-            "Country_Region": "Andorra",
-            "Long_": 1.5218,
+            "Country": "Andorra",
+            "long": 1.5218,
             "Confirmed": 13842,
-            "Lat": 42.5063
+            "lat": 42.5063
          },
        
       {
           
-            "Country_Region": "Angola",
-            "Long_": 17.8739,
+            "Country": "Angola",
+            "long": 17.8739,
             "Confirmed": 37467,
-            "Lat": -11.2027
+            "lat": -11.2027
          },
         
       {
           
-            "Country_Region": "Antigua and Barbuda",
-            "Long_": -61.7964,
+            "Country": "Antigua and Barbuda",
+            "long": -61.7964,
             "Confirmed": 1263,
-            "Lat": 17.0608
+            "lat": 17.0608
          },
        
       {
           
-            "Country_Region": "Argentina",
-            "Long_": -63.6167,
+            "Country": "Argentina",
+            "long": -63.6167,
             "Confirmed": 4242763,
-            "Lat": -38.4161
+            "lat": -38.4161
          },
        
       {
           
-            "Country_Region": "Armenia",
-            "Long_": 45.0382,
+            "Country": "Armenia",
+            "long": 45.0382,
             "Confirmed": 224167,
-            "Lat": 40.0691
+            "lat": 40.0691
          },
        
       {
           
-            "Country_Region": "Australia",
-            "Long_": 133,
+            "Country": "Australia",
+            "long": 133,
             "Confirmed": 30323,
-            "Lat": -25
+            "lat": -25
          },
        
       {
           
-            "Country_Region": "Austria",
-            "Long_": 14.5501,
+            "Country": "Austria",
+            "long": 14.5501,
             "Confirmed": 649445,
-            "Lat": 47.5162
+            "lat": 47.5162
          },
       
       {
           
-            "Country_Region": "Azerbaijan",
-            "Long_": 47.5769,
+            "Country": "Azerbaijan",
+            "long": 47.5769,
             "Confirmed": 335399,
-            "Lat": 40.1431
+            "lat": 40.1431
          },
        
       {
           
-            "Country_Region": "Bahamas",
-            "Long_": -78.035889,
+            "Country": "Bahamas",
+            "long": -78.035889,
             "Confirmed": 12242,
-            "Lat": 25.025885
+            "lat": 25.025885
          },
        
       {
           
-            "Country_Region": "Bahrain",
-            "Long_": 50.55,
+            "Country": "Bahrain",
+            "long": 50.55,
             "Confirmed": 261988,
-            "Lat": 26.0275
+            "lat": 26.0275
          },
         
       {
           
-            "Country_Region": "Bangladesh",
-            "Long_": 90.3563,
+            "Country": "Bangladesh",
+            "long": 90.3563,
             "Confirmed": 844970,
-            "Lat": 23.685
+            "lat": 23.685
          },
        
       {
           
-            "Country_Region": "Barbados",
-            "Long_": -59.5432,
+            "Country": "Barbados",
+            "long": -59.5432,
             "Confirmed": 4040,
-            "Lat": 13.1939
+            "lat": 13.1939
          },
         
       {
           
-            "Country_Region": "Belarus",
-            "Long_": 27.9534,
+            "Country": "Belarus",
+            "long": 27.9534,
             "Confirmed": 409385,
-            "Lat": 53.7098
+            "lat": 53.7098
          },
        
       {
           
-            "Country_Region": "Belgium",
-            "Long_": 4.469936,
+            "Country": "Belgium",
+            "long": 4.469936,
             "Confirmed": 1078679,
-            "Lat": 50.8333
+            "lat": 50.8333
          },
         
       {
           
-            "Country_Region": "Belize",
-            "Long_": -88.4976,
+            "Country": "Belize",
+            "long": -88.4976,
             "Confirmed": 13004,
-            "Lat": 17.1899
+            "lat": 17.1899
          },
         
       {
           
-            "Country_Region": "Benin",
-            "Long_": 2.3158,
+            "Country": "Benin",
+            "long": 2.3158,
             "Confirmed": 8140,
-            "Lat": 9.3077
+            "lat": 9.3077
          },
        
       {
           
-            "Country_Region": "Bhutan",
-            "Long_": 90.4336,
+            "Country": "Bhutan",
+            "long": 90.4336,
             "Confirmed": 1889,
-            "Lat": 27.5142
+            "lat": 27.5142
          },
        
       {
           
-            "Country_Region": "Bolivia",
-            "Long_": -63.5887,
+            "Country": "Bolivia",
+            "long": -63.5887,
             "Confirmed": 419313,
-            "Lat": -16.2902
+            "lat": -16.2902
          },
        
       {
           
-            "Country_Region": "Bosnia and Herzegovina",
-            "Long_": 17.6791,
+            "Country": "Bosnia and Herzegovina",
+            "long": 17.6791,
             "Confirmed": 204814,
-            "Lat": 43.9159
+            "lat": 43.9159
          },
         
       {
           
-            "Country_Region": "Botswana",
-            "Long_": 24.6849,
+            "Country": "Botswana",
+            "long": 24.6849,
             "Confirmed": 63247,
-            "Lat": -22.3285
+            "lat": -22.3285
          },
         
       {
           
-            "Country_Region": "Brazil",
-            "Long_": -51.9253,
+            "Country": "Brazil",
+            "long": -51.9253,
             "Confirmed": 17801462,
-            "Lat": -14.235
+            "lat": -14.235
          },
        
       {
           
-            "Country_Region": "Brunei",
-            "Long_": 114.7277,
+            "Country": "Brunei",
+            "long": 114.7277,
             "Confirmed": 251,
-            "Lat": 4.5353
+            "lat": 4.5353
          },
        
       {
           
-            "Country_Region": "Bulgaria",
-            "Long_": 25.4858,
+            "Country": "Bulgaria",
+            "long": 25.4858,
             "Confirmed": 420964,
-            "Lat": 42.7339
+            "lat": 42.7339
          },
        
       {
           
-            "Country_Region": "Burkina Faso",
-            "Long_": -1.5616,
+            "Country": "Burkina Faso",
+            "long": -1.5616,
             "Confirmed": 13462,
-            "Lat": 12.2383
+            "lat": 12.2383
          },
        
       {
           
-            "Country_Region": "Burma",
-            "Long_": 95.956,
+            "Country": "Burma",
+            "long": 95.956,
             "Confirmed": 147069,
-            "Lat": 21.9162
+            "lat": 21.9162
          },
         
       {
           
-            "Country_Region": "Burundi",
-            "Long_": 29.9189,
+            "Country": "Burundi",
+            "long": 29.9189,
             "Confirmed": 5121,
-            "Lat": -3.3731
+            "lat": -3.3731
          },
         
       {
           
-            "Country_Region": "Cabo Verde",
-            "Long_": -23.0418,
+            "Country": "Cabo Verde",
+            "long": -23.0418,
             "Confirmed": 31910,
-            "Lat": 16.5388
+            "lat": 16.5388
          },
        
       {
           
-            "Country_Region": "Cambodia",
-            "Long_": 104.9167,
+            "Country": "Cambodia",
+            "long": 104.9167,
             "Confirmed": 42052,
-            "Lat": 11.55
+            "lat": 11.55
          },
         
       {
           
-            "Country_Region": "Cameroon",
-            "Long_": 11.5021,
+            "Country": "Cameroon",
+            "long": 11.5021,
             "Confirmed": 80328,
-            "Lat": 3.848
+            "lat": 3.848
          },
         
       {
           
-            "Country_Region": "Canada",
-            "Long_": -95.001,
+            "Country": "Canada",
+            "long": -95.001,
             "Confirmed": 1414805,
-            "Lat": 60.001
+            "lat": 60.001
          },
         
       {
           
-            "Country_Region": "Central African Republic",
-            "Long_": 20.9394,
+            "Country": "Central African Republic",
+            "long": 20.9394,
             "Confirmed": 7101,
-            "Lat": 6.6111
+            "lat": 6.6111
          },
         
       {
           
-            "Country_Region": "Chad",
-            "Long_": 18.7322,
+            "Country": "Chad",
+            "long": 18.7322,
             "Confirmed": 4945,
-            "Lat": 15.4542
+            "lat": 15.4542
          },
         
       {
           
-            "Country_Region": "Chile",
-            "Long_": -71.543,
+            "Country": "Chile",
+            "long": -71.543,
             "Confirmed": 1505001,
-            "Lat": -35.6751
+            "lat": -35.6751
          },
         
       {
           
-            "Country_Region": "China",
-            "Long_": 114.3055,
+            "Country": "China",
+            "long": 114.3055,
             "Confirmed": 103501,
-            "Lat": 30.5928
+            "lat": 30.5928
          },
        
       {
           
-            "Country_Region": "Colombia",
-            "Long_": -74.2973,
+            "Country": "Colombia",
+            "long": -74.2973,
             "Confirmed": 3888614,
-            "Lat": 4.5709
+            "lat": 4.5709
          },
        
       {
           
-            "Country_Region": "Comoros",
-            "Long_": 43.3333,
+            "Country": "Comoros",
+            "long": 43.3333,
             "Confirmed": 3905,
-            "Lat": -11.6455
+            "lat": -11.6455
          },
         
       {
           
-            "Country_Region": "Congo (Brazzaville)",
-            "Long_": 15.8277,
+            "Country": "Congo (Brazzaville)",
+            "long": 15.8277,
             "Confirmed": 12298,
-            "Lat": -0.228
+            "lat": -0.228
          },
         
       {
           
-            "Country_Region": "Congo (Kinshasa)",
-            "Long_": 21.7587,
+            "Country": "Congo (Kinshasa)",
+            "long": 21.7587,
             "Confirmed": 36957,
-            "Lat": -4.0383
+            "lat": -4.0383
          },
         
       {
           
-            "Country_Region": "Costa Rica",
-            "Long_": -83.7534,
+            "Country": "Costa Rica",
+            "long": -83.7534,
             "Confirmed": 350630,
-            "Lat": 9.7489
+            "lat": 9.7489
          },
         
       {
           
-            "Country_Region": "Cote d'Ivoire",
-            "Long_": -5.5471,
+            "Country": "Cote d'Ivoire",
+            "long": -5.5471,
             "Confirmed": 47973,
-            "Lat": 7.54
+            "lat": 7.54
          },
         
       {
           
-            "Country_Region": "Croatia",
-            "Long_": 15.2,
+            "Country": "Croatia",
+            "long": 15.2,
             "Confirmed": 359031,
-            "Lat": 45.1
+            "lat": 45.1
          },
         
       {
           
-            "Country_Region": "Cuba",
-            "Long_": -77.781167,
+            "Country": "Cuba",
+            "long": -77.781167,
             "Confirmed": 164896,
-            "Lat": 21.521757
+            "lat": 21.521757
          },
         
       {
           
-            "Country_Region": "Cyprus",
-            "Long_": 33.4299,
+            "Country": "Cyprus",
+            "long": 33.4299,
             "Confirmed": 73520,
-            "Lat": 35.1264
+            "lat": 35.1264
          },
         
       {
           
-            "Country_Region": "Czechia",
-            "Long_": 15.473,
+            "Country": "Czechia",
+            "long": 15.473,
             "Confirmed": 1665961,
-            "Lat": 49.8175
+            "lat": 49.8175
          },
         
       {
           
-            "Country_Region": "Denmark",
-            "Long_": 9.5018,
+            "Country": "Denmark",
+            "long": 9.5018,
             "Confirmed": 292029,
-            "Lat": 56.2639
+            "lat": 56.2639
          },
         
       {
           
-            "Country_Region": "Diamond Princess",
-            "Long_": null,
+            "Country": "Diamond Princess",
+            "long": null,
             "Confirmed": 712,
-            "Lat": null
+            "lat": null
          },
       
       {
           
-            "Country_Region": "Djibouti",
-            "Long_": 42.5903,
+            "Country": "Djibouti",
+            "long": 42.5903,
             "Confirmed": 11586,
-            "Lat": 11.8251
+            "lat": 11.8251
          },
         
       {
           
-            "Country_Region": "Dominica",
-            "Long_": -61.371,
+            "Country": "Dominica",
+            "long": -61.371,
             "Confirmed": 191,
-            "Lat": 15.415
+            "lat": 15.415
          },
         
       {
           
-            "Country_Region": "Dominican Republic",
-            "Long_": -70.1627,
+            "Country": "Dominican Republic",
+            "long": -70.1627,
             "Confirmed": 314031,
-            "Lat": 18.7357
+            "lat": 18.7357
          },
         
       {
           
-            "Country_Region": "Ecuador",
-            "Long_": -78.1834,
+            "Country": "Ecuador",
+            "long": -78.1834,
             "Confirmed": 444395,
-            "Lat": -1.8312
+            "lat": -1.8312
          },
         
       {
           
-            "Country_Region": "Egypt",
-            "Long_": 30.802498,
+            "Country": "Egypt",
+            "long": 30.802498,
             "Confirmed": 276190,
-            "Lat": 26.820553
+            "lat": 26.820553
          },
         
       {
           
-            "Country_Region": "El Salvador",
-            "Long_": -88.8965,
+            "Country": "El Salvador",
+            "long": -88.8965,
             "Confirmed": 76697,
-            "Lat": 13.7942
+            "lat": 13.7942
          },
         
       {
           
-            "Country_Region": "Equatorial Guinea",
-            "Long_": 10.2679,
+            "Country": "Equatorial Guinea",
+            "long": 10.2679,
             "Confirmed": 8698,
-            "Lat": 1.6508
+            "lat": 1.6508
          },
         
       {
           
-            "Country_Region": "Eritrea",
-            "Long_": 39.7823,
+            "Country": "Eritrea",
+            "long": 39.7823,
             "Confirmed": 5285,
-            "Lat": 15.1794
+            "lat": 15.1794
          },
         
       {
           
-            "Country_Region": "Estonia",
-            "Long_": 25.0136,
+            "Country": "Estonia",
+            "long": 25.0136,
             "Confirmed": 130781,
-            "Lat": 58.5953
+            "lat": 58.5953
          },
         
       {
           
-            "Country_Region": "Eswatini",
-            "Long_": 31.4659,
+            "Country": "Eswatini",
+            "long": 31.4659,
             "Confirmed": 18800,
-            "Lat": -26.5225
+            "lat": -26.5225
          },
        
       {
           
-            "Country_Region": "Ethiopia",
-            "Long_": 40.4897,
+            "Country": "Ethiopia",
+            "long": 40.4897,
             "Confirmed": 274899,
-            "Lat": 9.145
+            "lat": 9.145
          },
          
       {
           
-            "Country_Region": "Fiji",
-            "Long_": 178.065,
+            "Country": "Fiji",
+            "long": 178.065,
             "Confirmed": 1648,
-            "Lat": -17.7134
+            "lat": -17.7134
          },
         
       {
           
-            "Country_Region": "Finland",
-            "Long_": 25.7482,
+            "Country": "Finland",
+            "long": 25.7482,
             "Confirmed": 94269,
-            "Lat": 61.9241
+            "lat": 61.9241
          },
         
       {
           
-            "Country_Region": "France",
-            "Long_": 2.2137,
+            "Country": "France",
+            "long": 2.2137,
             "Confirmed": 5814648,
-            "Lat": 46.2276
+            "lat": 46.2276
          },
         
       {
           
-            "Country_Region": "Gabon",
-            "Long_": 11.6094,
+            "Country": "Gabon",
+            "long": 11.6094,
             "Confirmed": 24832,
-            "Lat": -0.8037
+            "lat": -0.8037
          },
         
       {
           
-            "Country_Region": "Gambia",
-            "Long_": -15.3101,
+            "Country": "Gambia",
+            "long": -15.3101,
             "Confirmed": 6024,
-            "Lat": 13.4432
+            "lat": 13.4432
          },
          
       {
           
-            "Country_Region": "Georgia",
-            "Long_": 43.3569,
+            "Country": "Georgia",
+            "long": 43.3569,
             "Confirmed": 358360,
-            "Lat": 42.3154
+            "lat": 42.3154
          },
         
       {
           
-            "Country_Region": "Germany",
-            "Long_": 10.451526,
+            "Country": "Germany",
+            "long": 10.451526,
             "Confirmed": 3728747,
-            "Lat": 51.165691
+            "lat": 51.165691
          },
         
       {
           
-            "Country_Region": "Ghana",
-            "Long_": -1.0232,
+            "Country": "Ghana",
+            "long": -1.0232,
             "Confirmed": 94913,
-            "Lat": 7.9465
+            "lat": 7.9465
          },
         
       {
           
-            "Country_Region": "Greece",
-            "Long_": 21.8243,
+            "Country": "Greece",
+            "long": 21.8243,
             "Confirmed": 417706,
-            "Lat": 39.0742
+            "lat": 39.0742
          },
         
       {
           
-            "Country_Region": "Grenada",
-            "Long_": -61.679,
+            "Country": "Grenada",
+            "long": -61.679,
             "Confirmed": 161,
-            "Lat": 12.1165
+            "lat": 12.1165
          },
         
       {
           
-            "Country_Region": "Guatemala",
-            "Long_": -90.2308,
+            "Country": "Guatemala",
+            "long": -90.2308,
             "Confirmed": 278409,
-            "Lat": 15.7835
+            "lat": 15.7835
          },
         
       {
           
-            "Country_Region": "Guinea",
-            "Long_": -9.6966,
+            "Country": "Guinea",
+            "long": -9.6966,
             "Confirmed": 23450,
-            "Lat": 9.9456
+            "lat": 9.9456
          },
         
       {
           
-            "Country_Region": "Guinea-Bissau",
-            "Long_": -15.1804,
+            "Country": "Guinea-Bissau",
+            "long": -15.1804,
             "Confirmed": 3824,
-            "Lat": 11.8037
+            "lat": 11.8037
          },
        
       {
           
-            "Country_Region": "Guyana",
-            "Long_": -58.93018,
+            "Country": "Guyana",
+            "long": -58.93018,
             "Confirmed": 18837,
-            "Lat": 4.860416
+            "lat": 4.860416
          },
         
       {
           
-            "Country_Region": "Haiti",
-            "Long_": -72.2852,
+            "Country": "Haiti",
+            "long": -72.2852,
             "Confirmed": 16859,
-            "Lat": 18.9712
+            "lat": 18.9712
          },
        
       {
           
-            "Country_Region": "Holy See",
-            "Long_": 12.4534,
+            "Country": "Holy See",
+            "long": 12.4534,
             "Confirmed": 27,
-            "Lat": 41.9029
+            "lat": 41.9029
          },
         
       {
           
-            "Country_Region": "Honduras",
-            "Long_": -86.2419,
+            "Country": "Honduras",
+            "long": -86.2419,
             "Confirmed": 251966,
-            "Lat": 15.2
+            "lat": 15.2
          },
         
       {
           
-            "Country_Region": "Hungary",
-            "Long_": 19.5033,
+            "Country": "Hungary",
+            "long": 19.5033,
             "Confirmed": 807428,
-            "Lat": 47.1625
+            "lat": 47.1625
          },
         
       {
           
-            "Country_Region": "Iceland",
-            "Long_": -19.0208,
+            "Country": "Iceland",
+            "long": -19.0208,
             "Confirmed": 6555,
-            "Lat": 64.9631
+            "lat": 64.9631
          },
         
       {
           
-            "Country_Region": "India",
-            "Long_": 78.96288,
+            "Country": "India",
+            "long": 78.96288,
             "Confirmed": 29823546,
-            "Lat": 20.593684
+            "lat": 20.593684
          },
         
       {
           
-            "Country_Region": "Indonesia",
-            "Long_": 113.9213,
+            "Country": "Indonesia",
+            "long": 113.9213,
             "Confirmed": 1976172,
-            "Lat": -0.7893
+            "lat": -0.7893
          },
          
       {
           
-            "Country_Region": "Iran",
-            "Long_": 53.688046,
+            "Country": "Iran",
+            "long": 53.688046,
             "Confirmed": 3080526,
-            "Lat": 32.427908
+            "lat": 32.427908
          },
          
       {
           
-            "Country_Region": "Iraq",
-            "Long_": 43.679291,
+            "Country": "Iraq",
+            "long": 43.679291,
             "Confirmed": 1279697,
-            "Lat": 33.223191
+            "lat": 33.223191
          },
         
       {
           
-            "Country_Region": "Ireland",
-            "Long_": -7.6921,
+            "Country": "Ireland",
+            "long": -7.6921,
             "Confirmed": 268251,
-            "Lat": 53.1424
+            "lat": 53.1424
          },
          
       {
           
-            "Country_Region": "Israel",
-            "Long_": 34.851612,
+            "Country": "Israel",
+            "long": 34.851612,
             "Confirmed": 839769,
-            "Lat": 31.046051
+            "lat": 31.046051
          },
         
       {
           
-            "Country_Region": "Italy",
-            "Long_": 12.5674,
+            "Country": "Italy",
+            "long": 12.5674,
             "Confirmed": 4250902,
-            "Lat": 41.8719
+            "lat": 41.8719
          },
          
       {
           
-            "Country_Region": "Jamaica",
-            "Long_": -77.2975,
+            "Country": "Jamaica",
+            "long": -77.2975,
             "Confirmed": 49564,
-            "Lat": 18.1096
+            "lat": 18.1096
          },
          
       {
           
-            "Country_Region": "Japan",
-            "Long_": 138.252924,
+            "Country": "Japan",
+            "long": 138.252924,
             "Confirmed": 783173,
-            "Lat": 36.204824
+            "lat": 36.204824
          },
         
       {
           
-            "Country_Region": "Jordan",
-            "Long_": 36.51,
+            "Country": "Jordan",
+            "long": 36.51,
             "Confirmed": 745667,
-            "Lat": 31.24
+            "lat": 31.24
          },
          
       {
           
-            "Country_Region": "Kazakhstan",
-            "Long_": 66.9237,
+            "Country": "Kazakhstan",
+            "long": 66.9237,
             "Confirmed": 464010,
-            "Lat": 48.0196
+            "lat": 48.0196
          },
          
       {
           
-            "Country_Region": "Kenya",
-            "Long_": 37.9062,
+            "Country": "Kenya",
+            "long": 37.9062,
             "Confirmed": 178078,
-            "Lat": -0.0236
+            "lat": -0.0236
          },
         
       {
           
-            "Country_Region": "Kiribati",
-            "Long_": -168.734,
+            "Country": "Kiribati",
+            "long": -168.734,
             "Confirmed": 2,
-            "Lat": -3.3704
+            "lat": -3.3704
          },
         
       {
           
-            "Country_Region": "Korea, South",
-            "Long_": 127.766922,
+            "Country": "Korea, South",
+            "long": 127.766922,
             "Confirmed": 150720,
-            "Lat": 35.907757
+            "lat": 35.907757
          },
          
       {
           
-            "Country_Region": "Kosovo",
-            "Long_": 20.902977,
+            "Country": "Kosovo",
+            "long": 20.902977,
             "Confirmed": 107192,
-            "Lat": 42.602636
+            "lat": 42.602636
          },
         
       {
           
-            "Country_Region": "Kuwait",
-            "Long_": 47.481766,
+            "Country": "Kuwait",
+            "long": 47.481766,
             "Confirmed": 335874,
-            "Lat": 29.31166
+            "lat": 29.31166
          },
         
       {
           
-            "Country_Region": "Kyrgyzstan",
-            "Long_": 74.766098,
+            "Country": "Kyrgyzstan",
+            "long": 74.766098,
             "Confirmed": 114300,
-            "Lat": 41.20438
+            "lat": 41.20438
          },
         
       {
           
-            "Country_Region": "Laos",
-            "Long_": 102.495496,
+            "Country": "Laos",
+            "long": 102.495496,
             "Confirmed": 2047,
-            "Lat": 19.85627
+            "lat": 19.85627
          },
         
       {
           
-            "Country_Region": "Latvia",
-            "Long_": 24.6032,
+            "Country": "latvia",
+            "long": 24.6032,
             "Confirmed": 136736,
-            "Lat": 56.8796
+            "lat": 56.8796
          },
         
       {
           
-            "Country_Region": "Lebanon",
-            "Long_": 35.8623,
+            "Country": "Lebanon",
+            "long": 35.8623,
             "Confirmed": 542649,
-            "Lat": 33.8547
+            "lat": 33.8547
          },
         
       {
           
-            "Country_Region": "Lesotho",
-            "Long_": 28.2336,
+            "Country": "Lesotho",
+            "long": 28.2336,
             "Confirmed": 11010,
-            "Lat": -29.61
+            "lat": -29.61
          },
          
       {
           
-            "Country_Region": "Liberia",
-            "Long_": -9.429499,
+            "Country": "Liberia",
+            "long": -9.429499,
             "Confirmed": 2834,
-            "Lat": 6.428055
+            "lat": 6.428055
          },
         
       {
           
-            "Country_Region": "Libya",
-            "Long_": 17.228331,
+            "Country": "Libya",
+            "long": 17.228331,
             "Confirmed": 190426,
-            "Lat": 26.3351
+            "lat": 26.3351
          },
         
       {
           
-            "Country_Region": "Liechtenstein",
-            "Long_": 9.55,
+            "Country": "Liechtenstein",
+            "long": 9.55,
             "Confirmed": 3026,
-            "Lat": 47.14
+            "lat": 47.14
          },
        
       {
           
-            "Country_Region": "Lithuania",
-            "Long_": 23.8813,
+            "Country": "Lithuania",
+            "long": 23.8813,
             "Confirmed": 278328,
-            "Lat": 55.1694
+            "lat": 55.1694
          },
         
       {
           
-            "Country_Region": "Luxembourg",
-            "Long_": 6.1296,
+            "Country": "Luxembourg",
+            "long": 6.1296,
             "Confirmed": 70516,
-            "Lat": 49.8153
+            "lat": 49.8153
          },
         
       {
           
-            "Country_Region": "MS Zaandam",
-            "Long_": null,
+            "Country": "MS Zaandam",
+            "long": null,
             "Confirmed": 9,
-            "Lat": null
+            "lat": null
          
       },
       {
           
-            "Country_Region": "Madagascar",
-            "Long_": 46.869107,
+            "Country": "Madagascar",
+            "long": 46.869107,
             "Confirmed": 42076,
-            "Lat": -18.766947
+            "lat": -18.766947
          },
         
       
       {
           
-            "Country_Region": "Malawi",
-            "Long_": 34.3015,
+            "Country": "Malawi",
+            "long": 34.3015,
             "Confirmed": 34781,
-            "Lat": -13.2543
+            "lat": -13.2543
          },
         
       {
           
-            "Country_Region": "Malaysia",
-            "Long_": 101.975766,
+            "Country": "Malaysia",
+            "long": 101.975766,
             "Confirmed": 685204,
-            "Lat": 4.210484
+            "lat": 4.210484
          },
         
       {
           
-            "Country_Region": "Maldives",
-            "Long_": 73.2207,
+            "Country": "Maldives",
+            "long": 73.2207,
             "Confirmed": 71498,
-            "Lat": 3.2028
+            "lat": 3.2028
          },
        
       {
           
-            "Country_Region": "Mali",
-            "Long_": -3.996166,
+            "Country": "Mali",
+            "long": -3.996166,
             "Confirmed": 14375,
-            "Lat": 17.570692
+            "lat": 17.570692
          },
         
       {
           
-            "Country_Region": "Malta",
-            "Long_": 14.3754,
+            "Country": "Malta",
+            "long": 14.3754,
             "Confirmed": 30588,
-            "Lat": 35.9375
+            "lat": 35.9375
          },
         
       {
           
-            "Country_Region": "Marshall Islands",
-            "Long_": 171.1845,
+            "Country": "Marshall Islands",
+            "long": 171.1845,
             "Confirmed": 4,
-            "Lat": 7.1315
+            "lat": 7.1315
          },
          
       {
           
-            "Country_Region": "Mauritania",
-            "Long_": -10.9408,
+            "Country": "Mauritania",
+            "long": -10.9408,
             "Confirmed": 20288,
-            "Lat": 21.0079
+            "lat": 21.0079
          },
         
       {
           
-            "Country_Region": "Mauritius",
-            "Long_": 57.552152,
+            "Country": "Mauritius",
+            "long": 57.552152,
             "Confirmed": 1701,
-            "Lat": -20.348404
+            "lat": -20.348404
          },
         
       {
           
-            "Country_Region": "Mexico",
-            "Long_": -102.5528,
+            "Country": "Mexico",
+            "long": -102.5528,
             "Confirmed": 2471741,
-            "Lat": 23.6345
+            "lat": 23.6345
          },
          
       {
           
-            "Country_Region": "Micronesia",
-            "Long_": 150.5508,
+            "Country": "Micronesia",
+            "long": 150.5508,
             "Confirmed": 1,
-            "Lat": 7.4256
+            "lat": 7.4256
          },
         
       {
           
-            "Country_Region": "Moldova",
-            "Long_": 28.3699,
+            "Country": "Moldova",
+            "long": 28.3699,
             "Confirmed": 256054,
-            "Lat": 47.4116
+            "lat": 47.4116
          },
         
       {
           
-            "Country_Region": "Monaco",
-            "Long_": 7.4167,
+            "Country": "Monaco",
+            "long": 7.4167,
             "Confirmed": 2547,
-            "Lat": 43.7333
+            "lat": 43.7333
          },
         
       {
           
-            "Country_Region": "Mongolia",
-            "Long_": 103.8467,
+            "Country": "Mongolia",
+            "long": 103.8467,
             "Confirmed": 91151,
-            "Lat": 46.8625
+            "lat": 46.8625
          },
         
       {
           
-            "Country_Region": "Montenegro",
-            "Long_": 19.37439,
+            "Country": "Montenegro",
+            "long": 19.37439,
             "Confirmed": 100036,
-            "Lat": 42.708678
+            "lat": 42.708678
          },
         
       {
           
-            "Country_Region": "Morocco",
-            "Long_": -7.0926,
+            "Country": "Morocco",
+            "long": -7.0926,
             "Confirmed": 525924,
-            "Lat": 31.7917
+            "lat": 31.7917
          },
         
       {
           
-            "Country_Region": "Mozambique",
-            "Long_": 35.529562,
+            "Country": "Mozambique",
+            "long": 35.529562,
             "Confirmed": 72123,
-            "Lat": -18.665695
+            "lat": -18.665695
          },
         
       {
           
-            "Country_Region": "Namibia",
-            "Long_": 18.4904,
+            "Country": "Namibia",
+            "long": 18.4904,
             "Confirmed": 70112,
-            "Lat": -22.9576
+            "lat": -22.9576
          },
          
       {
           
-            "Country_Region": "Nepal",
-            "Long_": 84.25,
+            "Country": "Nepal",
+            "long": 84.25,
             "Confirmed": 617947,
-            "Lat": 28.1667
+            "lat": 28.1667
          },
         
       {
           
-            "Country_Region": "Netherlands",
-            "Long_": 5.55,
+            "Country": "Netherlands",
+            "long": 5.55,
             "Confirmed": 1705206,
-            "Lat": 52.3167
+            "lat": 52.3167
          },
         
       {
           
-            "Country_Region": "New Zealand",
-            "Long_": 174.886,
+            "Country": "New Zealand",
+            "long": 174.886,
             "Confirmed": 2715,
-            "Lat": -40.9006
+            "lat": -40.9006
          },
          
       {
           
-            "Country_Region": "Nicaragua",
-            "Long_": -85.207229,
+            "Country": "Nicaragua",
+            "long": -85.207229,
             "Confirmed": 7696,
-            "Lat": 12.865416
+            "lat": 12.865416
          },
         
       {
           
-            "Country_Region": "Niger",
-            "Long_": 8.081666,
+            "Country": "Niger",
+            "long": 8.081666,
             "Confirmed": 5459,
-            "Lat": 17.607789
+            "lat": 17.607789
          },
         
       {
           
-            "Country_Region": "Nigeria",
-            "Long_": 8.6753,
+            "Country": "Nigeria",
+            "long": 8.6753,
             "Confirmed": 167155,
-            "Lat": 9.082
+            "lat": 9.082
          },
          
       {
           
-            "Country_Region": "North Macedonia",
-            "Long_": 21.7453,
+            "Country": "North Macedonia",
+            "long": 21.7453,
             "Confirmed": 155612,
-            "Lat": 41.6086
+            "lat": 41.6086
          },
         
       {
           
-            "Country_Region": "Norway",
-            "Long_": 8.4689,
+            "Country": "Norway",
+            "long": 8.4689,
             "Confirmed": 129095,
-            "Lat": 60.472
+            "lat": 60.472
          },
          
       {
           
-            "Country_Region": "Oman",
-            "Long_": 55.923255,
+            "Country": "Oman",
+            "long": 55.923255,
             "Confirmed": 242723,
-            "Lat": 21.512583
+            "lat": 21.512583
          },
          
       {
           
-            "Country_Region": "Pakistan",
-            "Long_": 69.3451,
+            "Country": "Pakistan",
+            "long": 69.3451,
             "Confirmed": 947218,
-            "Lat": 30.3753
+            "lat": 30.3753
          },
         
       {
           
-            "Country_Region": "Palau",
-            "Long_": 134.5825,
+            "Country": "Palau",
+            "long": 134.5825,
             "Confirmed": 2,
-            "Lat": 7.515
+            "lat": 7.515
          },
         
       {
           
-            "Country_Region": "Panama",
-            "Long_": -80.7821,
+            "Country": "Panama",
+            "long": -80.7821,
             "Confirmed": 392166,
-            "Lat": 8.538
+            "lat": 8.538
          },
         
       {
           
-            "Country_Region": "Papua New Guinea",
-            "Long_": 143.95555,
+            "Country": "Papua New Guinea",
+            "long": 143.95555,
             "Confirmed": 16799,
-            "Lat": -6.314993
+            "lat": -6.314993
          },
         
       {
           
-            "Country_Region": "Paraguay",
-            "Long_": -58.4438,
+            "Country": "Paraguay",
+            "long": -58.4438,
             "Confirmed": 403392,
-            "Lat": -23.4425
+            "lat": -23.4425
          },
         
       {
           
-            "Country_Region": "Peru",
-            "Long_": -75.0152,
+            "Country": "Peru",
+            "long": -75.0152,
             "Confirmed": 2023179,
-            "Lat": -9.19
+            "lat": -9.19
          },
         
       {
           
-            "Country_Region": "Philippines",
-            "Long_": 121.774017,
+            "Country": "Philippines",
+            "long": 121.774017,
             "Confirmed": 1353220,
-            "Lat": 12.879721
+            "lat": 12.879721
          },
          
       {
           
-            "Country_Region": "Poland",
-            "Long_": 19.1451,
+            "Country": "Poland",
+            "long": 19.1451,
             "Confirmed": 2878634,
-            "Lat": 51.9194
+            "lat": 51.9194
          },
          
       {
           
-            "Country_Region": "Portugal",
-            "Long_": -8.2245,
+            "Country": "Portugal",
+            "long": -8.2245,
             "Confirmed": 862926,
-            "Lat": 39.3999
+            "lat": 39.3999
          },
         
       {
           
-            "Country_Region": "Qatar",
-            "Long_": 51.1839,
+            "Country": "Qatar",
+            "long": 51.1839,
             "Confirmed": 220509,
-            "Lat": 25.3548
+            "lat": 25.3548
          },
         
       {
           
-            "Country_Region": "Romania",
-            "Long_": 24.9668,
+            "Country": "Romania",
+            "long": 24.9668,
             "Confirmed": 1080140,
-            "Lat": 45.9432
+            "lat": 45.9432
          },
         
       {
           
-            "Country_Region": "Russia",
-            "Long_": 105.3188,
+            "Country": "Russia",
+            "long": 105.3188,
             "Confirmed": 5237847,
-            "Lat": 61.524
+            "lat": 61.524
          },
         
       {
           
-            "Country_Region": "Rwanda",
-            "Long_": 29.8739,
+            "Country": "Rwanda",
+            "long": 29.8739,
             "Confirmed": 30048,
-            "Lat": -1.9403
+            "lat": -1.9403
          },
         
       {
           
-            "Country_Region": "Saint Kitts and Nevis",
-            "Long_": -62.782998,
+            "Country": "Saint Kitts and Nevis",
+            "long": -62.782998,
             "Confirmed": 304,
-            "Lat": 17.357822
+            "lat": 17.357822
          },
         
       {
           
-            "Country_Region": "Saint Lucia",
-            "Long_": -60.9789,
+            "Country": "Saint Lucia",
+            "long": -60.9789,
             "Confirmed": 5206,
-            "Lat": 13.9094
+            "lat": 13.9094
          },
         
       {
           
-            "Country_Region": "Saint Vincent and the Grenadines",
-            "Long_": -61.2872,
+            "Country": "Saint Vincent and the Grenadines",
+            "long": -61.2872,
             "Confirmed": 2183,
-            "Lat": 12.9843
+            "lat": 12.9843
          },
         
       {
           
-            "Country_Region": "Samoa",
-            "Long_": -172.1046,
+            "Country": "Samoa",
+            "long": -172.1046,
             "Confirmed": 3,
-            "Lat": -13.759
+            "lat": -13.759
          },
          
       {
           
-            "Country_Region": "San Marino",
-            "Long_": 12.4578,
+            "Country": "San Marino",
+            "long": 12.4578,
             "Confirmed": 5090,
-            "Lat": 43.9424
+            "lat": 43.9424
          },
          
       {
           
-            "Country_Region": "Sao Tome and Principe",
-            "Long_": 6.6131,
+            "Country": "Sao Tome and Principe",
+            "long": 6.6131,
             "Confirmed": 2360,
-            "Lat": 0.1864
+            "lat": 0.1864
          },
         
       {
           
-            "Country_Region": "Saudi Arabia",
-            "Long_": 45.079162,
+            "Country": "Saudi Arabia",
+            "long": 45.079162,
             "Confirmed": 471959,
-            "Lat": 23.885942
+            "lat": 23.885942
          },
         
       {
           
-            "Country_Region": "Senegal",
-            "Long_": -14.4524,
+            "Country": "Senegal",
+            "long": -14.4524,
             "Confirmed": 42259,
-            "Lat": 14.4974
+            "lat": 14.4974
          },
         
       {
           
-            "Country_Region": "Serbia",
-            "Long_": 21.0059,
+            "Country": "Serbia",
+            "long": 21.0059,
             "Confirmed": 715604,
-            "Lat": 44.0165
+            "lat": 44.0165
          },
         
       {
           
-            "Country_Region": "Seychelles",
-            "Long_": 55.492,
+            "Country": "Seychelles",
+            "long": 55.492,
             "Confirmed": 14123,
-            "Lat": -4.6796
+            "lat": -4.6796
          },
          
       {
           
-            "Country_Region": "Sierra Leone",
-            "Long_": -11.779889,
+            "Country": "Sierra Leone",
+            "long": -11.779889,
             "Confirmed": 4631,
-            "Lat": 8.460555
+            "lat": 8.460555
          },
         
       {
           
-            "Country_Region": "Singapore",
-            "Long_": 103.8333,
+            "Country": "Singapore",
+            "long": 103.8333,
             "Confirmed": 62382,
-            "Lat": 1.2833
+            "lat": 1.2833
          },
         
       {
           
-            "Country_Region": "Slovakia",
-            "Long_": 19.699,
+            "Country": "Slovakia",
+            "long": 19.699,
             "Confirmed": 391248,
-            "Lat": 48.669
+            "lat": 48.669
          },
          
       {
           
-            "Country_Region": "Slovenia",
-            "Long_": 14.9955,
+            "Country": "Slovenia",
+            "long": 14.9955,
             "Confirmed": 256871,
-            "Lat": 46.1512
+            "lat": 46.1512
          },
         
       {
           
-            "Country_Region": "Solomon Islands",
-            "Long_": 160.1562,
+            "Country": "Solomon Islands",
+            "long": 160.1562,
             "Confirmed": 20,
-            "Lat": -9.6457
+            "lat": -9.6457
          },
         
       {
           
-            "Country_Region": "Somalia",
-            "Long_": 46.199616,
+            "Country": "Somalia",
+            "long": 46.199616,
             "Confirmed": 14841,
-            "Lat": 5.152149
+            "lat": 5.152149
          },
          
       {
           
-            "Country_Region": "South Africa",
-            "Long_": 22.9375,
+            "Country": "South Africa",
+            "long": 22.9375,
             "Confirmed": 1796589,
-            "Lat": -30.5595
+            "lat": -30.5595
          },
          
       {
           
-            "Country_Region": "South Sudan",
-            "Long_": 31.307,
+            "Country": "South Sudan",
+            "long": 31.307,
             "Confirmed": 10770,
-            "Lat": 6.877
+            "lat": 6.877
          },
          
       {
           
-            "Country_Region": "Spain",
-            "Long_": -3.74922,
+            "Country": "Spain",
+            "long": -3.74922,
             "Confirmed": 3757442,
-            "Lat": 40.463667
+            "lat": 40.463667
          },
         
       {
           
-            "Country_Region": "Sri Lanka",
-            "Long_": 80.771797,
+            "Country": "Sri Lanka",
+            "long": 80.771797,
             "Confirmed": 235413,
-            "Lat": 7.873054
+            "lat": 7.873054
          },
          
       {
           
-            "Country_Region": "Sudan",
-            "Long_": 30.2176,
+            "Country": "Sudan",
+            "long": 30.2176,
             "Confirmed": 36347,
-            "Lat": 12.8628
+            "lat": 12.8628
          },
          
       {
           
-            "Country_Region": "Suriname",
-            "Long_": -56.0278,
+            "Country": "Suriname",
+            "long": -56.0278,
             "Confirmed": 19576,
-            "Lat": 3.9193
+            "lat": 3.9193
          },
          
       {
           
-            "Country_Region": "Sweden",
-            "Long_": 18.6435,
+            "Country": "Sweden",
+            "long": 18.6435,
             "Confirmed": 1084636,
-            "Lat": 60.1282
+            "lat": 60.1282
          },
         
       {
           
-            "Country_Region": "Switzerland",
-            "Long_": 8.2275,
+            "Country": "Switzerland",
+            "long": 8.2275,
             "Confirmed": 701627,
-            "Lat": 46.8182
+            "lat": 46.8182
          },
         
       {
           
-            "Country_Region": "Syria",
-            "Long_": 38.996815,
+            "Country": "Syria",
+            "long": 38.996815,
             "Confirmed": 25035,
-            "Lat": 34.802075
+            "lat": 34.802075
          },
          
       {
           
-            "Country_Region": "Taiwan*",
-            "Long_": 121,
+            "Country": "Taiwan*",
+            "long": 121,
             "Confirmed": 13771,
-            "Lat": 23.7
+            "lat": 23.7
          },
          
       {
           
-            "Country_Region": "Tajikistan",
-            "Long_": 71.2761,
+            "Country": "Tajikistan",
+            "long": 71.2761,
             "Confirmed": 13308,
-            "Lat": 38.861
+            "lat": 38.861
          },
          
       {
           
-            "Country_Region": "Tanzania",
-            "Long_": 34.888822,
+            "Country": "Tanzania",
+            "long": 34.888822,
             "Confirmed": 509,
-            "Lat": -6.369028
+            "lat": -6.369028
          },
         
       {
           
-            "Country_Region": "Thailand",
-            "Long_": 100.992541,
+            "Country": "Thailand",
+            "long": 100.992541,
             "Confirmed": 210782,
-            "Lat": 15.870032
+            "lat": 15.870032
          },
         
       {
           
-            "Country_Region": "Timor-Leste",
-            "Long_": 125.727539,
+            "Country": "Timor-Leste",
+            "long": 125.727539,
             "Confirmed": 8602,
-            "Lat": -8.874217
+            "lat": -8.874217
          },
          
       {
           
-            "Country_Region": "Togo",
-            "Long_": 0.8248,
+            "Country": "Togo",
+            "long": 0.8248,
             "Confirmed": 13701,
-            "Lat": 8.6195
+            "lat": 8.6195
          },
          
       {
           
-            "Country_Region": "Trinidad and Tobago",
-            "Long_": -61.2225,
+            "Country": "Trinidad and Tobago",
+            "long": -61.2225,
             "Confirmed": 30183,
-            "Lat": 10.6918
+            "lat": 10.6918
          },
          
       {
           
-            "Country_Region": "Tunisia",
-            "Long_": 9.537499,
+            "Country": "Tunisia",
+            "long": 9.537499,
             "Confirmed": 378982,
-            "Lat": 33.886917
+            "lat": 33.886917
          },
          
       {
           
-            "Country_Region": "Turkey",
-            "Long_": 35.2433,
+            "Country": "Turkey",
+            "long": 35.2433,
             "Confirmed": 5359728,
-            "Lat": 38.9637
+            "lat": 38.9637
          },
          
       {
           
-            "Country_Region": "US",
-            "Long_": -100,
+            "Country": "US",
+            "long": -100,
             "Confirmed": 33516781,
-            "Lat": 40
+            "lat": 40
          },
          
       {
           
-            "Country_Region": "Uganda",
-            "Long_": 32.290275,
+            "Country": "Uganda",
+            "long": 32.290275,
             "Confirmed": 68779,
-            "Lat": 1.373333
+            "lat": 1.373333
          },
          
       {
           
-            "Country_Region": "Ukraine",
-            "Long_": 31.1656,
+            "Country": "Ukraine",
+            "long": 31.1656,
             "Confirmed": 2290412,
-            "Lat": 48.3794
+            "lat": 48.3794
          },
         
       {
           
-            "Country_Region": "United Arab Emirates",
-            "Long_": 53.847818,
+            "Country": "United Arab Emirates",
+            "long": 53.847818,
             "Confirmed": 608070,
-            "Lat": 23.424076
+            "lat": 23.424076
          },
          
       {
           
-            "Country_Region": "United Kingdom",
-            "Long_": -3,
+            "Country": "United Kingdom",
+            "long": -3,
             "Confirmed": 4626915,
-            "Lat": 55
+            "lat": 55
          },
          
       {
           
-            "Country_Region": "Uruguay",
-            "Long_": -55.7658,
+            "Country": "Uruguay",
+            "long": -55.7658,
             "Confirmed": 351378,
-            "Lat": -32.5228
+            "lat": -32.5228
          },
          
       {
           
-            "Country_Region": "Uzbekistan",
-            "Long_": 64.585262,
+            "Country": "Uzbekistan",
+            "long": 64.585262,
             "Confirmed": 105610,
-            "Lat": 41.377491
+            "lat": 41.377491
          },
          
       {
           
-            "Country_Region": "Vanuatu",
-            "Long_": 166.9592,
+            "Country": "Vanuatu",
+            "long": 166.9592,
             "Confirmed": 4,
-            "Lat": -15.3767
+            "lat": -15.3767
          },
          
       {
           
-            "Country_Region": "Venezuela",
-            "Long_": -66.5897,
+            "Country": "Venezuela",
+            "long": -66.5897,
             "Confirmed": 258140,
-            "Lat": 6.4238
+            "lat": 6.4238
          },
          
       {
           
-            "Country_Region": "Vietnam",
-            "Long_": 108.277199,
+            "Country": "Vietnam",
+            "long": 108.277199,
             "Confirmed": 12508,
-            "Lat": 14.058324
+            "lat": 14.058324
          },
          
       {
           
-            "Country_Region": "West Bank and Gaza",
-            "Long_": 35.2332,
+            "Country": "West Bank and Gaza",
+            "long": 35.2332,
             "Confirmed": 312499,
-            "Lat": 31.9522
+            "lat": 31.9522
          },
          
       {
           
-            "Country_Region": "Yemen",
-            "Long_": 48.516388,
+            "Country": "Yemen",
+            "long": 48.516388,
             "Confirmed": 6875,
-            "Lat": 15.552727
+            "lat": 15.552727
          },
         
       {
           
-            "Country_Region": "Zambia",
-            "Long_": 27.849332,
+            "Country": "Zambia",
+            "long": 27.849332,
             "Confirmed": 125157,
-            "Lat": -13.133897
+            "lat": -13.133897
          },
          
       {
           
-            "Country_Region": "Zimbabwe",
-            "Long_": 29.154857,
+            "Country": "Zimbabwe",
+            "long": 29.154857,
             "Confirmed": 41335,
-            "Lat": -19.015438
+            "lat": -19.015438
          }
          
    ]
