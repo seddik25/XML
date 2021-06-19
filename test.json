@@ -1,53 +1,5 @@
 
-{
-   "objectIdFieldName": "OBJECTID",
-   "uniqueIdField": {
-      "name": "OBJECTID",
-      "isSystemMaintained": true
-   },
-   "globalIdFieldName": "",
-   "geometryType": "esriGeometryPoint",
-   "spatialReference": {
-      "wkid": 4326,
-      "latestWkid": 4326
-   },
-   "fields": [
-      {
-         "name": "Country_Region",
-         "type": "esriFieldTypeString",
-         "alias": "Country/Region",
-         "sqlType": "sqlTypeOther",
-         "length": 256,
-         "domain": null,
-         "defaultValue": null
-      },
-      {
-         "name": "Long_",
-         "type": "esriFieldTypeDouble",
-         "alias": "Longitude",
-         "sqlType": "sqlTypeOther",
-         "domain": null,
-         "defaultValue": null
-      },
-      {
-         "name": "Confirmed",
-         "type": "esriFieldTypeInteger",
-         "alias": "Confirmed",
-         "sqlType": "sqlTypeOther",
-         "domain": null,
-         "defaultValue": null
-      },
-      {
-         "name": "Lat",
-         "type": "esriFieldTypeDouble",
-         "alias": "Latitude",
-         "sqlType": "sqlTypeOther",
-         "domain": null,
-         "defaultValue": null
-      }
-   ],
-   "features": [
-      {
+[{
          "attributes": {
             "Country_Region": "Afghanistan",
             "Long_": 67.709953,
@@ -2368,4 +2320,3 @@
          }
       }
    ]
-}
